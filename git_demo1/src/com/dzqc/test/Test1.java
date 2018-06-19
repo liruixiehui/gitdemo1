@@ -6,7 +6,9 @@ public class Test1 {
 		
 		
 		
+
 	}
+
 
 	/**
 	 * Ìí¼ÓmethodA
@@ -18,6 +20,7 @@ public class Test1 {
 	public static void methodB(){
 		
 	}
+
 
     public static void methodC() {
 		
