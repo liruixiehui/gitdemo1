@@ -10,5 +10,11 @@ public class Test2 {
 	public static void methodA() {
 		
 	}
+	/**
+	 * Ìí¼ÓmethodB
+	 */
+	public static void methodB() {
+		
+	}
 
 }
