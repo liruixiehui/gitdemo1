@@ -25,4 +25,7 @@ public class Test1 {
     public static void methodC() {
 		
 	}
+    public static void methodD() {
+		
+   	}
 }
